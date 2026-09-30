@@ -1,0 +1,7 @@
+name: RespawnBridge
+main: com.omnismp.respawnbridge.RespawnBridge
+version: ${project.version}
+api-version: '26.1'
+folia-supported: true
+load: POSTWORLD
+depend: [packetevents]

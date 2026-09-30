@@ -1,0 +1,2 @@
+# Log one line per handled death: old respawn point, event target, fallback teleport.
+debug: false
